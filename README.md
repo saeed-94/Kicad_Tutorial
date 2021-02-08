@@ -32,6 +32,8 @@ Hints:
 
 * In addition to wiring all routes, polygon is also considered ground and is located in the first layer.
 
+* Circuit design with easyeda software: https://easyeda.com/account/project/detail?project=23c31e0b7571449ead04e0d4366672a0
+
 
 ## Designer
 Saeed Ghorbani

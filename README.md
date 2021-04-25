@@ -35,6 +35,39 @@ Hints:
 * Circuit design with easyeda software: (Folder (doc)>-easyeda.pdf)
 
 
+
+# Relay Module
+
+*pcb Layout*
+
+![](docs/Pcb_Relay_Module.png)
+
+
+## Shematic
+
+![](docs/Shematic_Relay_module.png)
+
+## FreeCad
+*pcb 3d Layout*
+
+For 3d Model we used kicadStepUpMod in FreeCAD software.
+![](docs/3d_Relay_Module.png)
+
+
+
+
+
+Hints:
+* Circuit design in two layers with kicad version 5.1.9.
+
+## Installing
+Download and install your corresponding version of FreeCAD from https://wiki.freecadweb.org/Download
+
+automatically using the FreeCAD Add-on Manager (https://github.com/FreeCAD/FreeCAD-addons) (bundled in to 0.17 dev version under Tools Menu)
+manually by copying the kicadStepUpMod folder to the Mod sub-directory of the FreeCAD application.
+
+
+
 ## Designer
 Saeed Ghorbani
 
